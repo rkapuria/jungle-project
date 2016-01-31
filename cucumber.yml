@@ -1,0 +1,1 @@
+default: --no-source --format pretty --format html --out reports/jungle_socks.html
