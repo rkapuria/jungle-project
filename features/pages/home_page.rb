@@ -17,7 +17,6 @@ class HomePage
   end
 
   def select_state(mystate)
-  #  @driver.find_element(:name =>'state').send_keys(mystate)
     Selenium::WebDriver::Support::Select.new(@driver.find_element(:name =>'state')).select_by(:text, mystate)
   end
 
