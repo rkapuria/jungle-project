@@ -22,7 +22,7 @@
 
 __Commmands__ 
 
-1. __cucumber features/scenarios__ : This will execute all scenarios from all features  
+1. __cucumber features__ : This will execute all scenarios from all features  
 
 ## Reporting :eyes:
 Jungle automation reports are created in following format
